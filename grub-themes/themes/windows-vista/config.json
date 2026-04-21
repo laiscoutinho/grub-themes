@@ -1,0 +1,20 @@
+{
+  "id": "windows-vista",
+  "name": "Windows Vista Basic",
+  "version": "1.0.0",
+  "description": "Tema simples para testes com estilo Vista",
+  "author": "laiscoutinho",
+  "grub_min_version": "2.06",
+  "preview": "preview.png",
+
+  "customizable": [
+    {
+      "field": "username",
+      "placeholder": "{{USERNAME}}",
+      "label": "Seu nome",
+      "type": "text",
+      "required": false,
+      "default": "User"
+    }
+  ]
+}

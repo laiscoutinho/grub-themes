@@ -1,0 +1,15 @@
+title-text: "Hello {{USERNAME}}"
+title-color: "#ffffff"
+title-font: "DejaVu Sans 24"
+
+desktop-image: "assets/background.png"
+
++ boot_menu {
+  left = 10%
+  top = 20%
+  width = 80%
+  height = 60%
+
+  item_color = "#ffffff"
+  selected_item_color = "#00ffff"
+}
